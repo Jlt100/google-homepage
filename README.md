@@ -1,0 +1,1 @@
+My name is Jauwan Thomas and this is my first project, the creation/replication of the Google homepage. Here, I will apply my knowledge of HTML, CSS and Git in order to do so. 
